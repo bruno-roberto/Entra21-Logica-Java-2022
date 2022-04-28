@@ -4,9 +4,9 @@
 
 ###### Tipos de Operadores da linguagem Java
 
-- + Operador de adição
+- (+) Operador de adição
 
-- - Operador de subtração
+- (-) Operador de subtração
 
 - * Operador de multiplicação
 

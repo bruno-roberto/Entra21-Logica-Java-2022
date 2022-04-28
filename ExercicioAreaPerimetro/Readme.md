@@ -1,6 +1,6 @@
 # Exercício de operadores logísticos 
 
-- Exercício conduzido pelo professor 
+- Exercício orientado pelo professor 
 
 - Utilização das operações de soma, subtração, multiplicação e divisão 
 
