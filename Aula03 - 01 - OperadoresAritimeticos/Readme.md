@@ -8,7 +8,7 @@
 
 - (-) Operador de subtração
 
-- * Operador de multiplicação
+- (*) Operador de multiplicação
 
 - / Operador de divisão
 
