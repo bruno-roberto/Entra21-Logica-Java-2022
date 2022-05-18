@@ -33,4 +33,4 @@
 |Aula 09 - 01|[For](./Aula09%20-%2001%20-%20for/)
 |Aula 10 - 01|[While / Do-While](./Aula10%20-%2001%20-%20while/)
 |Aula 11 - 01|[Vetores](./Aula11%20-%2001%20-%20Vetores/)
-|Aula 12 - 01|[Exercício Vetores](./Aula11%20-%2001%20-%20Exercicio vetores/)
+|Aula 12 - 01|[Exercício Vetores](./Aula12%20-%2001%20-%20Exercicio vetores/)
