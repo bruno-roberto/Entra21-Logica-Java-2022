@@ -8,7 +8,7 @@
 > - Linguagem markdown
 > - Documentação
 
-![Gif Entra21](C:\Users\Bruno\Downloads)
+![Gif Entra21]()
 
 ## Aula Ministradas
  

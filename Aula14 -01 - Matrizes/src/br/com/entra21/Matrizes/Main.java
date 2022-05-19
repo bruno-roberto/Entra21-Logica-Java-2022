@@ -56,7 +56,7 @@ public class Main {
 		notas = new float[10][3];
 		// primeiro indice é a quantidade de vetores
 		// segundo indice é a capacidade de cada vetor
-		// apenas no ultimo indice da criacao pela sintaxe ficam os valores
+		// apenas no ultimo indice da criacao pela sintaxe ficam os valore
 
 		byte quantidadeAlunos, quantidadeNotas;
 		System.out.println("Informe a quantidade de alunos:");
